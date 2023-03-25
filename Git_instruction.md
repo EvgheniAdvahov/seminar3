@@ -26,8 +26,8 @@
 
 Tecтим git commit -a
 Тест
-Тест
-
+Тест            
+some changes
 
 
 
