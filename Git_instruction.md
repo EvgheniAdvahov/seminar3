@@ -82,3 +82,7 @@
     git branch <branch name>
 
 где \<branch>\ name это имя новой ветки
+
+## Слияние веток
+
+
