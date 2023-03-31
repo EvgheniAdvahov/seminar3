@@ -87,8 +87,8 @@
 
 Для того, чтобы влить изменения из одной ветки в другую нужно ввести команду:
     
-    git merge <branchname
-    >
+    git merge <branchname>
+    
 где \<branchname>\ имя ветки, из которой будет производиться вливание изменений.
  
 git branch -d <namebranch>
