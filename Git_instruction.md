@@ -98,3 +98,7 @@
 
 git branch -d <namebranch>
 * \<namebranch> - имя ветки которую хотим удалить
+
+
+
+git branch -D <namebranch>
